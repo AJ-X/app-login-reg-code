@@ -1,0 +1,15 @@
+{
+  "reg.html": {
+    "refer": [
+      "login.html"
+    ],
+    "resources": []
+  },
+  "login.html": {
+    "refer": [
+      "reg.html",
+      "index.html"
+    ],
+    "resources": []
+  }
+}
